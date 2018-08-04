@@ -1,0 +1,17 @@
+{
+  "name": "comp125-s2018-lesson10",
+  "version": "0.0.1",
+  "description": "COMP125 Lab9",
+  "main": "index.js",
+  "author": "Nusrat Riaz",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.3.4"
+  }
+}

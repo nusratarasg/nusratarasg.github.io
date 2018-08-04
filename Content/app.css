@@ -1,0 +1,62 @@
+/* Custom CSS goes here */
+
+/*   File name          app.css
+   * Author's name      Nusrat Ara Riaz
+   * Student id         300759574
+   * Assignment 3       Mini Portfolio-JSON Data & AJAX Component
+   * Web site name
+   * File description   This file contains Custom CSS  
+*/
+
+/* Syle sheet Started */
+
+main {
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+
+nav {
+  opacity: 0.8;
+}
+
+footer {
+  font-size: small;
+  text-align: center;
+}
+
+#photo {
+  float: left;
+  margin-right: 20px;
+}
+
+#intro {
+  text-align: justify;
+}
+
+#mdetail {
+  text-align: justify;
+}
+
+#mquote {
+  text-align: center;
+}
+
+#pdetail1,
+#pdetail2,
+#pdetail3 {
+  text-align: justify;
+}
+
+#pbenefit1,
+#pbenefit2,
+#pbenefit3 {
+  text-align: justify;
+}
+
+/* input:invalid {
+  border: 2px dashed red;
+}
+
+input:valid {
+  border: 2px solid black;
+} */

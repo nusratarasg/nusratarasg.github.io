@@ -1,0 +1,21 @@
+{
+    "Project1": {
+        "pname": "Car Dealer Ship Website ",
+        "pdetail": "I built a website to help advertise the inventory of a dealership.The website was built using Web Expression I designed an executed the webpage This project helped me gain expertise in the use of Web Templates ",
+        "pbenefit": "The website facilitates the dealership’s business by making information about their inventory and prices readily available to customers."
+    },
+    "Project2": {
+        "pname": "Hotel Reservation System ",
+        "pdetail": "I worked with a team of dedicated individuals to help design an online hotel reservation system. The reservation system was built using SQL Developer.",
+        "pbenefit": "The reservation system helps minimize human errors and greatly facilitates hotel business by making reservations more efficient and cost-effective."
+    },
+
+    "Project3": {
+        "pname": "Community Garden Project ",
+        "pdetail": "I volunteered to help care for the Scarborough community garden in my neighborhood. This project helped me connect with many members of my community who share a common interest in gardening.",
+        "pbenefit": "This project enabled me to give back to my community and add to the beauty of my surroundings."
+    }
+
+
+
+}
